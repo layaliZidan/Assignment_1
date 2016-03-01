@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+
+   <user ID="1">
+      <firstName>Layali</firstName>
+	  <lastName>zidan</lastName>
+	  <dateOfBirth>29/12/1994</dateOfBirth>
+	  <location>20,-120</location>
+	  <joinYear>2009</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Ramallah</address>
+	  <email>layali_zidan@yahoo.com</email>
+	  <phone>0597487202</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="2">
+      <firstName>ahmad</firstName>
+	  <lastName>zidan</lastName>
+	  <dateOfBirth>29/12/1997</dateOfBirth>
+	  <location>20,-120</location>
+	  <joinYear>2010</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Ramallah</address>
+	  <email>ahmad_zidan@yahoo.com</email>
+	  <phone>0597465821</phone>
+	  <gender>male</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="3">
+      <firstName>yasmeen</firstName>
+	  <lastName>khalel</lastName>
+	  <dateOfBirth>26/4/1994</dateOfBirth>
+	  <location>40,-110</location>
+	  <joinYear>2012</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>USA</address>
+	  <email>yasmeen_khalel@yahoo.com</email>
+	  <phone>548598762</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="4">
+      <firstName>Shurooq</firstName>
+	  <lastName>Morrar</lastName>
+	  <dateOfBirth>18/7/1994</dateOfBirth>
+	  <location>22,-220</location>
+	  <joinYear>2010</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Ramallah</address>
+	  <email>shurooq_morrar@yahoo.com</email>
+	  <phone>0598745782</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="5">
+      <firstName>Nariman</firstName>
+	  <lastName>Ammar</lastName>
+	  <dateOfBirth>16/12/1988</dateOfBirth>
+	  <location>47,-122</location>
+	  <joinYear>2009</joinYear>
+	  <jobtitle>Dr</jobtitle>
+	  <address>Ramallah</address>
+	  <email>nammar@birzeit.edu</email>
+	  <phone>0597851326</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="6">
+      <firstName>aya</firstName>
+	  <lastName>taleb</lastName>
+	  <dateOfBirth>10/1/1995</dateOfBirth>
+	  <location>20,-80</location>
+	  <joinYear>2011</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Ramallah</address>
+	  <email>aya.taleb@yahoo.com</email>
+	  <phone>0569754213</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="7">
+      <firstName>shahd</firstName>
+	  <lastName>abu salha</lastName>
+	  <dateOfBirth>10/11/1997</dateOfBirth>
+	  <location>40,-120</location>
+	  <joinYear>2012</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Nablus</address>
+	  <email>shahd.abusalha@yahoo.com</email>
+	  <phone>05674123598</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="8">
+      <firstName>Sanaana</firstName>
+	  <lastName>Hamed</lastName>
+	  <dateOfBirth>8/3/1994</dateOfBirth>
+	  <location>20,-50</location>
+	  <joinYear>2009</joinYear>
+	  <jobtitle>students</jobtitle>
+	  <address>Ramallah</address>
+	  <email>sana.hamed@yahoo.com</email>
+	  <phone>05968741265</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="9">
+      <firstName>Sujood</firstName>
+	  <lastName>Barghouthi</lastName>
+	  <dateOfBirth>19/4/1994</dateOfBirth>
+	  <location>20,-40</location>
+	  <joinYear>2009</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Ramallah</address>
+	  <email>sujood.barghothi@yahoo.com</email>
+	  <phone>0598763241</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="10">
+      <firstName>Maram</firstName>
+	  <lastName>Omari</lastName>
+	  <dateOfBirth>11/11/1996</dateOfBirth>
+	  <location>40,-20</location>
+	  <joinYear>2010</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Jordan</address>
+	  <email>maram.omari@yahoo.com</email>
+	  <phone>0759621458</phone>
+	  <gender>female</gender>
+	  <nationality>Jordanian</nationality>
+   </user>
+   
+   <user ID="11">
+      <firstName>Musa</firstName>
+	  <lastName>Omari</lastName>
+	  <dateOfBirth>7/5/1994</dateOfBirth>
+	  <location>20,-45</location>
+	  <joinYear>2008</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Jordan</address>
+	  <email>musa.omari@yahoo.com</email>
+	  <phone>0798521467</phone>
+	  <gender>male</gender>
+	  <nationality>Jordanian</nationality>
+   </user>
+   
+   <user ID="12">
+      <firstName>Abdallah</firstName>
+	  <lastName>abu khalaf</lastName>
+	  <dateOfBirth>10/11/1993</dateOfBirth>
+	  <location>20,-50</location>
+	  <joinYear>2009</joinYear>
+	  <jobtitle>student</jobtitle>
+	  <address>Hebron</address>
+	  <email>abdallah.khalaf@gmail.com</email>
+	  <phone>0597854621</phone>
+	  <gender>male</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   <user ID="13">
+      <firstName>Eman</firstName>
+	  <lastName>Zidan</lastName>
+	  <dateOfBirth>1/11/1976</dateOfBirth>
+	  <location>45,-20</location>
+	  <joinYear>2014</joinYear>
+	  <jobtitle>designer</jobtitle>
+	  <address>Ramallah</address>
+	  <email>eman.zidan@yahoo.com</email>
+	  <phone>05984236751</phone>
+	  <gender>female</gender>
+	  <nationality>Palestinian</nationality>
+   </user>
+   
+   
+</users>
