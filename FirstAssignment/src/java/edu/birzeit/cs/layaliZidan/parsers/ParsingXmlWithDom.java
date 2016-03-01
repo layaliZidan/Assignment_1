@@ -119,16 +119,17 @@ public class ParsingXmlWithDom {
            System.out.println(" \t Name : "+ u.getFirstName() +" "+u.getLastName());
            System.out.println(" \t Date of Birth : "+ u.getDateOfBirth());
            System.out.println(" \t Location : "+u.getLocation());
-           System.out.println(" \t Join year :" + u.getJoinYear());
-           System.out.println(" \t Job title :" +u.getJobTitle());
            System.out.println(" \t Address :"+ u.getAddress());
-           System.out.println(" \t E-mail :"+u.getEmail());
-           System.out.println(" \t Phone :"+u.getPhone());
-           System.out.println(" \t Gender :"+u.getGender());
+              System.out.println(" \t Join year : " + u.getJoinYear());
+           System.out.println(" \t Job title : " +u.getJobTitle());
+           System.out.println(" \t E-mail : "+u.getEmail());
+           System.out.println(" \t Phone : "+u.getPhone());
+           System.out.println(" \t Gender : "+u.getGender());
            System.out.println(" \t Nationality : "+u.getNationality());
-           System.out.println(" \tFriend List :");
+           System.out.println("  \tFriend List :");
            for(int m =0 ; m<u.friends.size() ; m++){
-               System.out.println(" \t\tFriend "+ (m+1) +": "+u.friends.get(m).getFirstName());
+               System.out.println(" \t\tFriend "+ (m+1) +": "+u.friends.get(m).getFirstName()+" "+
+                                                             u.friends.get(m).getLastName());
            }
            
            // System.out.println("\n\n");
