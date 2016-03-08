@@ -1,0 +1,25 @@
+{
+"relations":[
+  {"first_id":"13", "second_id":"12"},
+  {"first_id":"13", "second_id":"1"},
+  {"first_id":"1", "second_id":"2"},
+  {"first_id":"12", "second_id":"2"},
+  {"first_id":"1", "second_id":"8"},
+  {"first_id":"1", "second_id":"9"},
+  {"first_id":"8", "second_id":"7"},
+  {"first_id":"8", "second_id":"9"},
+  {"first_id":"7", "second_id":"9"},
+  {"first_id":"7", "second_id":"6"},
+  {"first_id":"9", "second_id":"10"},
+  {"first_id":"10", "second_id":"11"},
+  {"first_id":"10", "second_id":"2"},
+  {"first_id":"10", "second_id":"3"},
+ 
+  {"first_id":"11", "second_id":"3"},
+  {"first_id":"11", "second_id":"5"},
+  {"first_id":"5", "second_id":"4"},
+  {"first_id":"4", "second_id":"3"}
+  
+  
+]
+}

@@ -1,0 +1,192 @@
+{ "users":[
+        
+        {
+                "firstName": "layali",
+                "lastName": "zidan",
+                "dateOfBirth": "29/12/1997",
+                "location": "20,-120",
+                "joinYear": "2010",
+                "jobtitle": "student",
+                "address": "Ramallah",
+                "email": "ahmad_zidan@yahoo.com",
+                "phone": "0597465821",
+                "gender": "male",
+                "nationality": "Palestinian",
+                "_ID": "1"
+            },
+	   {
+                "firstName": "ahmad",
+                "lastName": "zidan",
+                "dateOfBirth": "29/12/1997",
+                "location": "20,-120",
+                "joinYear": "2010",
+                "jobtitle": "student",
+                "address": "Ramallah",
+                "email": "ahmad_zidan@yahoo.com",
+                "phone": "0597465821",
+                "gender": "male",
+                "nationality": "Palestinian",
+                "_ID": "2"
+            },
+            {
+                "firstName": "yasmeen",
+                "lastName": "khalel",
+                "dateOfBirth": "26/4/1994",
+                "location": "40,-110",
+                "joinYear": "2012",
+                "jobtitle": "student",
+                "address": "USA",
+                "email": "yasmeen_khalel@yahoo.com",
+                "phone": "548598762",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "3"
+            },
+			
+			{
+                "firstName": "Shurooq",
+                "lastName": "Morrar",
+                "dateOfBirth": "18/7/1994",
+                "location": "22,-220",
+                "joinYear": "2010",
+                "jobtitle": "student",
+                "address": "Ramallah",
+                "email": "shurooq_morrar@yahoo.com",
+                "phone": "0598745782",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "4"
+            },
+            {
+                "firstName": "Nariman",
+                "lastName": "Ammar",
+                "dateOfBirth": "16/12/1988",
+                "location": "47,-122",
+                "joinYear": "2009",
+                "jobtitle": "Dr",
+                "address": "Ramallah",
+                "email": "nammar@birzeit.edu",
+                "phone": "0597851326",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "5"
+            },
+			
+			{
+                "firstName": "aya",
+                "lastName": "taleb",
+                "dateOfBirth": "10/1/1995",
+                "location": "20,-80",
+                "joinYear": "2011",
+                "jobtitle": "student",
+                "address": "Ramallah",
+                "email": "aya.taleb@yahoo.com",
+                "phone": "0569754213",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "6"
+            },
+            {
+                "firstName": "shahd",
+                "lastName": "abu salha",
+                "dateOfBirth": "10/11/1997",
+                "location": "40,-120",
+                "joinYear": "2012",
+                "jobtitle": "student",
+                "address": "Nablus",
+                "email": "shahd.abusalha@yahoo.com",
+                "phone": "05674123598",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "7"
+            },
+			
+			 {
+                "firstName": "Sanaana",
+                "lastName": "Hamed",
+                "dateOfBirth": "8/3/1994",
+                "location": "20,-50",
+                "joinYear": "2009",
+                "jobtitle": "students",
+                "address": "Ramallah",
+                "email": "sana.hamed@yahoo.com",
+                "phone": "05968741265",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "8"
+            },
+            {
+                "firstName": "Sujood",
+                "lastName": "Barghouthi",
+                "dateOfBirth": "19/4/1994",
+                "location": "20,-40",
+                "joinYear": "2009",
+                "jobtitle": "student",
+                "address": "Ramallah",
+                "email": "sujood.barghothi@yahoo.com",
+                "phone": "0598763241",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "9"
+            },
+			
+			{
+                "firstName": "Maram",
+                "lastName": "Omari",
+                "dateOfBirth": "11/11/1996",
+                "location": "40,-20",
+                "joinYear": "2010",
+                "jobtitle": "student",
+                "address": "Jordan",
+                "email": "maram.omari@yahoo.com",
+                "phone": "0759621458",
+                "gender": "female",
+                "nationality": "Jordanian",
+                "_ID": "10"
+            },
+            {
+                "firstName": "Musa",
+                "lastName": "Omari",
+                "dateOfBirth": "7/5/1994",
+                "location": "20,-45",
+                "joinYear": "2008",
+                "jobtitle": "student",
+                "address": "Jordan",
+                "email": "musa.omari@yahoo.com",
+                "phone": "0798521467",
+                "gender": "male",
+                "nationality": "Jordanian",
+                "_ID": "11"
+            },
+			
+			 {
+                "firstName": "Abdallah",
+                "lastName": "abu khalaf",
+                "dateOfBirth": "10/11/1993",
+                "location": "20,-50",
+                "joinYear": "2009",
+                "jobtitle": "student",
+                "address": "Hebron",
+                "email": "abdallah.khalaf@gmail.com",
+                "phone": "0597854621",
+                "gender": "male",
+                "nationality": "Palestinian",
+                "_ID": "12"
+            },
+            {
+                "firstName": "Eman",
+                "lastName": "Zidan",
+                "dateOfBirth": "1/11/1976",
+                "location": "45,-20",
+                "joinYear": "2014",
+                "jobtitle": "designer",
+                "address": "Ramallah",
+                "email": "eman.zidan@yahoo.com",
+                "phone": "05984236751",
+                "gender": "female",
+                "nationality": "Palestinian",
+                "_ID": "13"
+            }
+]	
+}
+
